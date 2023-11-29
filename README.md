@@ -1,5 +1,7 @@
 # Phishing para captura de senhas do Facebook
 
+Projeto desenvolvido pelo o prof. e Expert Cassiano Peres (DIO.me)
+
 ### Ferramentas
 
 - Kali Linux
